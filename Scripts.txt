@@ -1,0 +1,13 @@
+Run script in the below order
+
+Script 1:
+python -m Convert
+
+Script 2:
+python -m Inference
+
+Script 3:
+python -m PersonCountLiveExtractzoneid q--camera 2
+
+Script 4:
+python -m PersonCountRetailStore --video Retail_Store.mp4
